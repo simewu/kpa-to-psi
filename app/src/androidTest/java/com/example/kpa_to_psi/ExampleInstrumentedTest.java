@@ -1,4 +1,4 @@
-package com.example.fractalcanvas;
+package com.example.kpa_to_psi;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.fractalcanvas", appContext.getPackageName());
+        assertEquals("com.example.kpa_to_psi", appContext.getPackageName());
     }
 }

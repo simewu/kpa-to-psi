@@ -1,4 +1,4 @@
-package com.example.fractalcanvas;
+package com.example.kpa_to_psi;
 
 import org.junit.Test;
 
